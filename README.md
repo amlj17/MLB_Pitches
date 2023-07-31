@@ -10,5 +10,4 @@ Note: the project was done in spanish, as it was used as a final project for uni
 This Repository has the following Files:
 Resultados_Final_ID: pdf file with the final report that was turned in, contains the results of the proyect.
 Proy_Final_INT: python notebook which has all the code for the project
-pitches base: csv file with the raw data, also available in the Kaggle Link
-train.csv: the portion of the data used to train the model. 
+The raw data used is available in the kaggle site. 
